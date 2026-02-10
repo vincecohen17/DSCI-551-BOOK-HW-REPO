@@ -33,3 +33,9 @@ Extra Work:
 1. AA: Operating Systems: Three Easy Steps by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (Free Online!)
     - Homework link: https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html
     - Chapter 4: https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf
+    - Learning Objectives:
+        1. Understand how CPU runs different programs on terminal
+        2. Learn about differet flags
+        3. Difference between -I flag parameters
+        4. Difference between -S flag parameters
+        5. Maximize the use of the CPU when running different processes
