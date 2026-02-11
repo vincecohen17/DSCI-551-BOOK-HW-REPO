@@ -32,10 +32,19 @@ Extra Work:
 
 1. AA: Operating Systems: Three Easy Steps by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (Free Online!)
     - Homework link: https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html
-    - Chapter 4: https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf
-    - Learning Objectives:
-        1. Understand how CPU runs different programs on terminal
-        2. Learn about differet flags
-        3. Difference between -I flag parameters
-        4. Difference between -S flag parameters
-        5. Maximize the use of the CPU when running different processes
+    1. Chapter 4: https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf
+        - Intro Homework
+        - Learning Objectives:
+            1. Understand how CPU runs different programs on terminal
+            2. Learn about differet flags
+            3. Difference between -I flag parameters
+            4. Difference between -S flag parameters
+            5. Maximize the use of the CPU when running different processes
+    2. Chapter 37: https://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf
+        - Disks Homework
+        - Learning Objectives:
+            1. Learn about a few different scheduling algorithms
+            2. What is skew and why do we do it
+            3. How do different flags affect seek, transfer and rotate times
+            4. Understand how to calculate seek, transfer and rotate times
+            5. Why do we use scheduling windows
