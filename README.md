@@ -48,3 +48,7 @@ Extra Work:
             3. How do different flags affect seek, transfer and rotate times
             4. Understand how to calculate seek, transfer and rotate times
             5. Why do we use scheduling windows
+    3. Chapter 39: https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf
+        - File Systems Intro Homework
+        - Learning Objectives:
+            1. ...
