@@ -1,0 +1,105 @@
+[
+  {
+    "index_id": 734,
+    "name": "PRIMARY",
+    "root": 4,
+    "records": [
+      [
+        {
+          "name": "id",
+          "type": "int",
+          "size": 4,
+          "is_null": false
+        },
+        {
+          "name": "DB_TRX_ID",
+          "type": "",
+          "size": 6,
+          "is_null": false
+        },
+        {
+          "name": "DB_ROLL_PTR",
+          "type": "",
+          "size": 7,
+          "is_null": false
+        },
+        {
+          "name": "name",
+          "type": "char(10)",
+          "size": 10,
+          "is_null": false
+        },
+        {
+          "name": "addr",
+          "type": "varchar(20)",
+          "size": 16,
+          "is_null": false
+        }
+      ],
+      [
+        {
+          "name": "id",
+          "type": "int",
+          "size": 4,
+          "is_null": false
+        },
+        {
+          "name": "DB_TRX_ID",
+          "type": "",
+          "size": 6,
+          "is_null": false
+        },
+        {
+          "name": "DB_ROLL_PTR",
+          "type": "",
+          "size": 7,
+          "is_null": false
+        },
+        {
+          "name": "name",
+          "type": "char(10)",
+          "size": 10,
+          "is_null": false
+        },
+        {
+          "name": "addr",
+          "type": "varchar(20)",
+          "size": 18,
+          "is_null": false
+        }
+      ],
+      [
+        {
+          "name": "id",
+          "type": "int",
+          "size": 4,
+          "is_null": false
+        },
+        {
+          "name": "DB_TRX_ID",
+          "type": "",
+          "size": 6,
+          "is_null": false
+        },
+        {
+          "name": "DB_ROLL_PTR",
+          "type": "",
+          "size": 7,
+          "is_null": false
+        },
+        {
+          "name": "name",
+          "type": "char(10)",
+          "size": -1,
+          "is_null": true
+        },
+        {
+          "name": "addr",
+          "type": "varchar(20)",
+          "size": 14,
+          "is_null": false
+        }
+      ]
+    ]
+  }
+]

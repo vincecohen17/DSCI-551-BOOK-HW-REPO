@@ -1,0 +1,161 @@
+[
+  {
+    "index_id": 731,
+    "name": "PRIMARY",
+    "root": 4,
+    "records": [
+      [
+        {
+          "name": "DB_ROW_ID",
+          "type": "",
+          "size": 6,
+          "is_null": false
+        },
+        {
+          "name": "DB_TRX_ID",
+          "type": "",
+          "size": 6,
+          "is_null": false
+        },
+        {
+          "name": "DB_ROLL_PTR",
+          "type": "",
+          "size": 7,
+          "is_null": false
+        },
+        {
+          "name": "a",
+          "type": "int",
+          "size": 4,
+          "is_null": false
+        },
+        {
+          "name": "b",
+          "type": "varchar(10)",
+          "size": 4,
+          "is_null": false
+        },
+        {
+          "name": "c",
+          "type": "tinyint",
+          "size": 1,
+          "is_null": false
+        }
+      ],
+      [
+        {
+          "name": "DB_ROW_ID",
+          "type": "",
+          "size": 6,
+          "is_null": false
+        },
+        {
+          "name": "DB_TRX_ID",
+          "type": "",
+          "size": 6,
+          "is_null": false
+        },
+        {
+          "name": "DB_ROLL_PTR",
+          "type": "",
+          "size": 7,
+          "is_null": false
+        },
+        {
+          "name": "a",
+          "type": "int",
+          "size": 4,
+          "is_null": true
+        },
+        {
+          "name": "b",
+          "type": "varchar(10)",
+          "size": 5,
+          "is_null": false
+        },
+        {
+          "name": "c",
+          "type": "tinyint",
+          "size": 1,
+          "is_null": false
+        }
+      ],
+      [
+        {
+          "name": "DB_ROW_ID",
+          "type": "",
+          "size": 6,
+          "is_null": false
+        },
+        {
+          "name": "DB_TRX_ID",
+          "type": "",
+          "size": 6,
+          "is_null": false
+        },
+        {
+          "name": "DB_ROLL_PTR",
+          "type": "",
+          "size": 7,
+          "is_null": false
+        },
+        {
+          "name": "a",
+          "type": "int",
+          "size": 4,
+          "is_null": true
+        },
+        {
+          "name": "b",
+          "type": "varchar(10)",
+          "size": -1,
+          "is_null": true
+        },
+        {
+          "name": "c",
+          "type": "tinyint",
+          "size": 1,
+          "is_null": false
+        }
+      ],
+      [
+        {
+          "name": "DB_ROW_ID",
+          "type": "",
+          "size": 6,
+          "is_null": false
+        },
+        {
+          "name": "DB_TRX_ID",
+          "type": "",
+          "size": 6,
+          "is_null": false
+        },
+        {
+          "name": "DB_ROLL_PTR",
+          "type": "",
+          "size": 7,
+          "is_null": false
+        },
+        {
+          "name": "a",
+          "type": "int",
+          "size": 4,
+          "is_null": false
+        },
+        {
+          "name": "b",
+          "type": "varchar(10)",
+          "size": -1,
+          "is_null": true
+        },
+        {
+          "name": "c",
+          "type": "tinyint",
+          "size": 1,
+          "is_null": true
+        }
+      ]
+    ]
+  }
+]

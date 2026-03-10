@@ -1,0 +1,128 @@
+[
+  {
+    "index_id": 732,
+    "name": "PRIMARY",
+    "root": 4,
+    "records": [
+      [
+        {
+          "name": "id",
+          "type": "int",
+          "size": 4,
+          "is_null": false
+        },
+        {
+          "name": "DB_TRX_ID",
+          "type": "",
+          "size": 6,
+          "is_null": false
+        },
+        {
+          "name": "DB_ROLL_PTR",
+          "type": "",
+          "size": 7,
+          "is_null": false
+        },
+        {
+          "name": "id1",
+          "type": "int unsigned",
+          "size": 4,
+          "is_null": false
+        },
+        {
+          "name": "age",
+          "type": "tinyint",
+          "size": 1,
+          "is_null": false
+        },
+        {
+          "name": "age1",
+          "type": "tinyint unsigned",
+          "size": 1,
+          "is_null": false
+        },
+        {
+          "name": "age2",
+          "type": "smallint",
+          "size": 2,
+          "is_null": false
+        },
+        {
+          "name": "age3",
+          "type": "mediumint",
+          "size": 3,
+          "is_null": false
+        },
+        {
+          "name": "score",
+          "type": "bigint",
+          "size": 8,
+          "is_null": false
+        },
+        {
+          "name": "name",
+          "type": "char(10)",
+          "size": 10,
+          "is_null": false
+        },
+        {
+          "name": "gpa",
+          "type": "float",
+          "size": 4,
+          "is_null": false
+        },
+        {
+          "name": "salary",
+          "type": "double",
+          "size": 8,
+          "is_null": false
+        },
+        {
+          "name": "height",
+          "type": "decimal(5,2)",
+          "size": 3,
+          "is_null": false
+        },
+        {
+          "name": "addr",
+          "type": "varchar(20)",
+          "size": 12,
+          "is_null": false
+        },
+        {
+          "name": "dob",
+          "type": "date",
+          "size": 3,
+          "is_null": false
+        },
+        {
+          "name": "resume",
+          "type": "text",
+          "size": 18,
+          "is_null": false
+        }
+      ]
+    ]
+  },
+  {
+    "index_id": 733,
+    "name": "name",
+    "root": 5,
+    "records": [
+      [
+        {
+          "name": "name",
+          "type": "char(10)",
+          "size": 10,
+          "is_null": false
+        },
+        {
+          "name": "id",
+          "type": "int",
+          "size": 4,
+          "is_null": false
+        }
+      ]
+    ]
+  }
+]

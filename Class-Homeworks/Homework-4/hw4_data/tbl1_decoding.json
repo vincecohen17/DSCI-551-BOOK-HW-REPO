@@ -1,0 +1,105 @@
+[
+  {
+    "index_id": 735,
+    "name": "PRIMARY",
+    "root": 4,
+    "records": [
+      [
+        {
+          "name": "a",
+          "type": "varchar(10)",
+          "size": 4,
+          "is_null": false
+        },
+        {
+          "name": "b",
+          "type": "char(10)",
+          "size": 10,
+          "is_null": false
+        },
+        {
+          "name": "DB_TRX_ID",
+          "type": "",
+          "size": 6,
+          "is_null": false
+        },
+        {
+          "name": "DB_ROLL_PTR",
+          "type": "",
+          "size": 7,
+          "is_null": false
+        },
+        {
+          "name": "c",
+          "type": "int",
+          "size": 4,
+          "is_null": false
+        }
+      ],
+      [
+        {
+          "name": "a",
+          "type": "varchar(10)",
+          "size": 5,
+          "is_null": false
+        },
+        {
+          "name": "b",
+          "type": "char(10)",
+          "size": 10,
+          "is_null": false
+        },
+        {
+          "name": "DB_TRX_ID",
+          "type": "",
+          "size": 6,
+          "is_null": false
+        },
+        {
+          "name": "DB_ROLL_PTR",
+          "type": "",
+          "size": 7,
+          "is_null": false
+        },
+        {
+          "name": "c",
+          "type": "int",
+          "size": 4,
+          "is_null": true
+        }
+      ],
+      [
+        {
+          "name": "a",
+          "type": "varchar(10)",
+          "size": 4,
+          "is_null": false
+        },
+        {
+          "name": "b",
+          "type": "char(10)",
+          "size": 10,
+          "is_null": false
+        },
+        {
+          "name": "DB_TRX_ID",
+          "type": "",
+          "size": 6,
+          "is_null": false
+        },
+        {
+          "name": "DB_ROLL_PTR",
+          "type": "",
+          "size": 7,
+          "is_null": false
+        },
+        {
+          "name": "c",
+          "type": "int",
+          "size": 4,
+          "is_null": false
+        }
+      ]
+    ]
+  }
+]
